@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 16px;
+  background-color: #96d19f;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  display: flex;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-title{
+  color: rgb(16, 41, 28);
+  margin-left: 24px;
+}
+
+.App-logo {
+  display: 'flex';
+  border-radius: 50%;
+  cursor: pointer;
+  height: 120px;
+  width: 120px;
+  justify-content: 'start';
+}

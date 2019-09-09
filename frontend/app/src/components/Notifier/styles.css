@@ -1,0 +1,11 @@
+.notify{
+    background-color: transparent;
+    padding: 20px;
+    text-align: center;
+    color: rgb(61, 11, 126);
+    margin-bottom: 20px;
+}
+
+.danger{
+    color: rgb(215, 35, 50);
+}
